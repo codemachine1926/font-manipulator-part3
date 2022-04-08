@@ -1,0 +1,20 @@
+body{
+    background-size:cover;
+}
+#heading {
+    margin-bottom: 440px;
+    background-color: black;
+    color: aliceblue;
+}
+#h4_1 {
+    color: red;
+}
+.footer {
+    color: white;
+    margin-top: 440px;
+    background-color:red;
+}
+
+canvas {
+    border: 5px solid cadetblue;
+}
